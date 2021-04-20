@@ -17,7 +17,7 @@ Execution Step:
 Please note: The utility of getting highest trading volume and most significant stock price cannot be added due to limited knowledge of Stock Market and its
 corresponding calculation. The code may not be fully clean but most of the cases adhere to PEP8 standard. I know Vincit recognizes clean coding. But I tried
 with my best to have a clean coding standard. Despite of limited knowledge in the domain of Stock Market Analysis, I tried my best. Hope as code geeks, you guys
-like this small contribution from my end.
+like this small contribution from my end. In addition to this, the api URL shared in the assignment does not work. Therefore, I worked with yfinance module of python.
 
 References:
 
