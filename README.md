@@ -12,7 +12,9 @@ Execution Step:
 
 1. Do git clone git@github.com:niladricts/StockMarket.git
 2. cd StockMarket
-3. python3 main.py
+3. python3 main.py**
+
+** The Start Date and End Date should be given in the following format: YYYY,MM,DD as input
 
 Please note: The utility of getting highest trading volume and most significant stock price cannot be added due to limited knowledge of Stock Market and its
 corresponding calculation. The code may not be fully clean but most of the cases adhere to PEP8 standard. I know Vincit recognizes clean coding. But I tried
