@@ -1,7 +1,7 @@
 # StockMarket
 StockTrend Analysis
 
-This is a hands-on assignment from Vincit. Don't dare to touch it. Otherwise, you will be punished by Lord Shiva.
+This is a hands-on assignment from Vincit. Don't dare to touch it. 
 
 The utility of the code:
 
